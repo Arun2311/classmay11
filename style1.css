@@ -1,0 +1,29 @@
+ul{
+    /* padding: 0px; */
+    list-style-type: none;
+    margin-left: 420px;
+}
+
+
+li{
+
+    display: inline;
+    padding: 40px;
+    color: aliceblue;
+    
+    
+
+}
+
+.loki{
+height: 20px;
+width: 80px;
+margin-top: 50px;
+
+}
+
+
+.diva{
+
+    background-image: url(./Assets/will-turner-GTPT_fNFQiE-unsplash.jpg);
+}
